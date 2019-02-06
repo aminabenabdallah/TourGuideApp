@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="History">History</string>
+    <string name="top_attractions">Top Attractions</string>
+    <string name="best_hotels">Best Hotels</string>
+    <string name="yummy_food">Yummy Food</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+</resources>
